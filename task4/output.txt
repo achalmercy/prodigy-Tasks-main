@@ -1,0 +1,16 @@
+Column Names:
+Index(['2401', 'Borderlands', 'Positive',
+       'im getting on borderlands and i will murder you all ,', '3364',
+       'Facebook', 'Irrelevant',
+       'I mentioned on Facebook that I was struggling for motivation to go for a run the other day, which has been translated by Tom’s great auntie as ‘Hayley can’t get out of bed’ and told to his grandma, who now thinks I’m a lazy, terrible person 🤣'],
+      dtype='object')
+Data Overview:
+     2401  ... I mentioned on Facebook that I was struggling for motivation to go for a run the other day, which has been translated by Tom’s great auntie as ‘Hayley can’t get out of bed’ and told to his grandma, who now thinks I’m a lazy, terrible person 🤣
+0  2401.0  ...                                                NaN                                                                                                                                                                                                
+1  2401.0  ...                                                NaN                                                                                                                                                                                                
+2  2401.0  ...                                                NaN                                                                                                                                                                                                
+3  2401.0  ...                                                NaN                                                                                                                                                                                                
+4  2401.0  ...                                                NaN                                                                                                                                                                                                
+
+[5 rows x 8 columns]
+Missing sentiment columns: ['Negative', 'Neutral']
